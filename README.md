@@ -36,7 +36,7 @@
 
 **🧮 Vazifa:** Tug‘ilgan yilga qarab yoshni hisoblang.\
 **📥 Kirish:** `t_yil = 1995`\
-**📤 Chiqish:** `29`
+**📤 Chiqish:** `29'
 
 ---
 
